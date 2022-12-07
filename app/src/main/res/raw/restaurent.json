@@ -1,0 +1,237 @@
+[
+  {
+    "name":"Пронто Піца",
+    "address":"Вулиця Івасюка, 11",
+    "delivery_charge": 5,
+    "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pizza-logo-template-design-183c12cfbe00ef109c299d864f364e58_screen.jpg?ts=1635756978",
+
+    "hours":{
+      "Sunday":"10:00 - 21:30",
+      "Monday":"10:00 - 21:30",
+      "Tuesday":"10:00 - 21:30",
+      "Wednesday":"10:00 - 21:30",
+      "Thursday":"10:00 - 21:30",
+      "Friday":"10:00 - 21:30",
+      "Saturday":"10:00 - 21:30"
+    },
+    "menus": [
+      {
+        "name": "Спагеті",
+        "price": 210.00,
+        "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg"
+      },
+      {
+        "name": "Спагеттіо Піца",
+        "price": 300.99,
+        "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+      },
+      {
+        "name": "Шоколадна піца",
+        "price": 159.99,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+      },
+      {
+        "name": "Сирні палички",
+        "price": 175.49,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      },
+      {
+        "name": "Сендвіч із м'ясом курки",
+        "price": 159.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Курячі смужки (у боксі)",
+        "price": 148.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Домащній салат (у боксі)",
+        "price": 166.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Салат Цезар (у боксі)",
+        "price": 173.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Печиво та Кекси",
+        "price": 198.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Брауні",
+        "price": 186.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"Хот-доги ІФ",
+    "address":"Вулиця Галицька, 1",
+    "delivery_charge": 4,
+    "image":"https://t3.ftcdn.net/jpg/02/82/76/66/360_F_282766654_O0SyFWYcXkLBWxXXMwYN32I4M8pOpAe3.jpg",
+
+    "hours":{
+      "Sunday":"10:00 - 20:00",
+      "Monday":"10:00 - 20:00",
+      "Tuesday":"10:00 - 20:00",
+      "Wednesday":"10:00 - 20:00",
+      "Thursday":"10:00 - 20:00",
+      "Friday":"10:00 - 20:00",
+      "Saturday":"10:00 - 20:00"
+    },
+    "menus": [
+      {
+        "name": "Хот-дог",
+        "price": 40.99,
+        "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+      },
+      {
+        "name": "Чізбургер",
+        "price": 43.99,
+        "url": "https://brfood.com.ua/files/products/hero.sdwch_doublecheeseburger.1000x1000.png"
+      },
+      {
+        "name": "Midway Monster",
+        "price": 45.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+      },
+      {
+        "name": "Картопля фрі",
+        "price": 42.00,
+        "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+      },
+      {
+        "name": "Молочний коктейль",
+        "price": 43.49,
+        "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+      },
+      {
+        "name": "Шоколадний коктейль",
+        "price": 44.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Полуничний коктейль",
+        "price": 43.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Фішбургер",
+        "price": 115.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "МакНагетс",
+        "price": 93.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Комбінований обід",
+        "price": 198.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "МакМафін",
+        "price": 106.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Макдональдс",
+    "address":"Вулиця Івана Миколайчука, 2",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"07:00 - 23:50",
+      "Monday":"07:00 - 23:50",
+      "Tuesday":"07:00 - 23:50",
+      "Wednesday":"07:00 - 23:50",
+      "Thursday":"07:00 - 23:50",
+      "Friday":"07:00 - 23:50",
+      "Saturday":"07:00 - 23:50"
+    },
+    "menus": [
+      {
+        "name": "Шоколадний коктейль",
+        "price": 49.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Полуничний коктейль",
+        "price": 40.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Фішбургер",
+        "price": 155.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "МакНагетс",
+        "price": 90.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Комбінований обід",
+        "price": 189.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "МакМафін",
+        "price": 96.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Фастфуд ІФ",
+    "address":"Вулиця Любомира Гузара, 24a",
+    "delivery_charge": 6,
+    "image":"https://img.freepik.com/premium-vector/fast-food-logo-template-design-vector_20029-840.jpg",
+    "hours":{
+      "Sunday":"09:00 - 21:00",
+      "Monday":"09:00 - 21:00",
+      "Tuesday":"09:00 - 21:00",
+      "Wednesday":"09:00 - 21:00",
+      "Thursday":"09:00 - 21:00",
+      "Friday":"09:00 - 21:00",
+      "Saturday":"09:00 - 21:00"
+    },
+    "menus": [
+      {
+        "name": "Сендвіч із м'ясом курки",
+        "price": 54.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Курячі смужки (у боксі)",
+        "price": 78.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Домащній салат (у боксі)",
+        "price": 95.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Салат Цезар (у боксі)",
+        "price": 115.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Печиво та Кекси",
+        "price": 199.89,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Брауні",
+        "price": 106.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]
